@@ -42,22 +42,16 @@ Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 For details, please visit: [Creative Commons License Page](https://creativecommons.org/licenses/by-nc/4.0/).
 
-This license applies to the Privatify logo, the app name "Privatify" in this repository, as well as the branding color combinations of the project and app, including:
+This license applies to the Privatify logo and the app name "Privatify" in this repository.
+If you wish to use any of those 2:
 
-- **Primary**: #002147
-- **Text**: #00FF00
-- **Accent**: #FFFF00
-- **Secondary**: #008080
-- **Anchor**: #000000
-
-These branding color combinations are part of our identity and are closely related to our project.
-If you wish to use any of those 3:
+• **Contact Us**: You may contact us if you wish to use our logo and name on any way.
 
 • **NonCommercial Use**: You may not use them for commercial purposes.
 
 • **Attribution**: You must attribute our project: the Privatify Project.
 
-For any questions or permissions beyond the scope of this license, please contact us at privatifyapp@gmail.com.
+For any questions or permissions within or beyond the scope of this license, please contact us at privatifyapp@gmail.com.
 
 ## Meet-the-Developer
 
