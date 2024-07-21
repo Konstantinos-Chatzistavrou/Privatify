@@ -1,22 +1,8 @@
-<a title="Crowdin" target="_blank" href="https://crowdin.com/project/Threat-Watch_GitHub_README_file"><img src="https://badges.crowdin.net/Threat-Watch_GitHub_README_file/localized.svg"></a>
-
 <img alt="License" src="https://img.shields.io/github/license/kochas23/Threat-Watch?style=for-the-badge&label=License&&color=#333"> <img alt="Static Badge" src="https://img.shields.io/badge/Active-brightgreen?style=for-the-badge&label=Status&labelColor=%23008080&color=%23009010">
 <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kochas23/Threat-Watch/Core?style=for-the-badge&logoColor=%23002147&label=Last%20commit&labelColor=%23008080&color=%2300FF00"> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kochas23/Threat-Watch?style=for-the-badge&labelColor=%230000FF">
 
 
-
-### Available in 2 more language
-<details>
-  <summary>Translated Versions</summary>
-  <ul>
-    <li><a href="https://github.com/kochas23/Threat-Watch/blob/Core/README-GR.md">Ελληνικά</a></li>
-
-<li><a href="https://github.com/kochas23/Threat-Watch/blob/Core/README-FR.md">Français</a></li>
-    <!-- Add more translated version links here -->
-  </ul>
-</details>
-
-# Threat-Watch
+# Privatify
 The privacy focused cybersecurity news app. Project's official website: [Threat Watch: Where news meet privacy](https://threat-watch-project.rf.gd/)
 
 <p align="center">
@@ -25,7 +11,7 @@ The privacy focused cybersecurity news app. Project's official website: [Threat 
 
 ## Table of Contents
 
-- [Threat-Watch](#threat-watch)
+- [Privatify](#privatify)
 - [Features](#features)
 - [Logo and app name license](#logo-and-app-name-license)
 - [Meet the team](#meet-the-threat-watch-team)
