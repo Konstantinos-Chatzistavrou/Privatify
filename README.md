@@ -26,11 +26,17 @@ Welcome to Privatify, the app that helps you discover privacy-focused, open sour
 ## Features
 
 - Scan your device for installed apps and find open source alternatives.
+
 - Privacy-focused: No data collection policy. We will never collect or give any of your personal data away to third-parties, not even anonymously. (GDPR compliant)
+
 - Minimal Third-Party Dependence: In our commitment to user privacy, we minimize reliance on third-party services wherever possible.
+
 - User-first policy: Users have the most influence on which additional features will be added in the app.
+
 - User-friendly interface: Intuitive design for easy navigation.
+
 - No ads for free.
+
 - No central server, everything is run either inside the user's device or within a secure API, ensuring maximum privacy and security.
 
 ## Logo-and-App-Name-License
@@ -49,13 +55,13 @@ If you wish to use any of those 2:
 
 • **NonCommercial Use**: You may not use them for commercial purposes.
 
-• **Attribution**: You must attribute our project: the Privatify Project.
+• **Attribution**: You must attribute our project: Privatify.
 
-For any questions or permissions within or beyond the scope of this license, please contact us at privatifyapp@gmail.com.
+For any questions or permissions within or beyond the scope of this license, please contact us at: konstantinoschatzistavrou@gmail.com.
 
 ## Meet-the-Developer
 
-I'm Konstantinos Chatzistavrou, the independent developer behind Privatify. I'm committed to creating a privacy-focused ecosystem where users can find open source alternatives to proprietary apps.
+I'm Konstantinos Chatzistavrou, the independent developer behind Privatify and founder of the Threat-Watch Project. I'm committed to creating a privacy-focused ecosystem where users can find open source alternatives to proprietary apps.
 
 ## Installation
 
@@ -65,7 +71,7 @@ I'm Konstantinos Chatzistavrou, the independent developer behind Privatify. I'm 
 
 ## Usage
 
-Download the APK from the official website or from the Google Play Store.
+Not yet available: Download the APK from the official website or from the Google Play Store.
 
 ## Contributing
 
@@ -78,8 +84,6 @@ I welcome contributions from the community! If you'd like to contribute to Priva
 5. Open a pull request on this repository.
 
 Please ensure that your contributions align with our [Code of Conduct](CODE_OF_CONDUCT.md).
-
-For more detailed guidelines on how to contribute, please refer to our [Contributing Guide](Contributing.md).
 
 ## Issues
 
@@ -99,12 +103,13 @@ This license grants you the freedom to use, modify, and distribute this software
 
 For questions or inquiries, you can reach me at:
 
-Mail: privatifyapp@gmail.com
+Mail: konstantinoschatzistavrou@gmail.com
 
-Instagram: [Privatify](https://instagram.com/_privatify_official_?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D)
+Instagram: Coming Soon
 
 Thank you for your interest in Privatify!
 
-##### If you want to help us translate this file to your mother language please read how to translate it from Crowdin here: [Translations Guide](Translations.md). Make sure to click the translated versions button to check which languages are already available.
 
 # Help us create a safer digital world
+
+# Join the privacy revolution
