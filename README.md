@@ -2,7 +2,7 @@
 <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kochas23/Privatify/Core?style=for-the-badge&logoColor=%23002147&label=Last%20commit&labelColor=%23008080&color=%2300FF00"> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kochas23/Privatify?style=for-the-badge&labelColor=%230000FF">
 
 # Privatify
-The privacy-focused app recommendation tool. Project's official website: [Privatify: Discover Open Source Alternatives](https://privatify-project.rf.gd/)
+The privacy-focused app recommendation tool. Project's official website: Not available yet [Privatify: Discover Open Source Alternatives](https://privatify-project.rf.gd/)
 
 <p align="center">
 <img src="https://i.ibb.co/YcFHJx1/IMG-20240717-181132.png" alt="IMG-20240717-181132" border="0"></a>
