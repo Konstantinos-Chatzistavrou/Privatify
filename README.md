@@ -5,7 +5,7 @@
 The privacy-focused app recommendation tool. Project's official website: [Privatify: Discover Open Source Alternatives](https://privatify-project.rf.gd/)
 
 <p align="center">
-<a href="https://ibb.co/qx6604P"><img src="https://i.ibb.co/qx6604P/IMG-20230905-000015.png" alt="IMG-20230905-000015" border="0" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/YcFHJx1/IMG-20240717-181132.png" alt="IMG-20240717-181132" border="0"></a>
 
 ## Table of Contents
 
