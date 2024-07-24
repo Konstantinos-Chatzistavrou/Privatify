@@ -39,33 +39,33 @@ Welcome to the Privatify contribution guide! We value your input and encourage y
 
 ## Contribution Guidelines
 
-Bug Fixes
+### Bug Fixes
 Before reporting a bug, search for existing issues to avoid duplicates.
 Provide a clear and concise description of the bug, including steps to reproduce.
 If you can, submit a pull request with the bug fix and reference the issue.
 
-New Features
+### New Features
 Discuss your proposed feature in an issue before working on it.
 Create a well-documented pull request with a detailed explanation of the new feature.
 Include relevant tests and update documentation as needed.
 
-Documentation
+### Documentation
 Improve existing documentation or add new content to clarify usage and features.
 Keep the documentation well-organized and easy to understand.
 Follow the same coding and formatting conventions used in the rest of the documentation.
 
-Secure Code Review
+### Secure Code Review
 Ensure your code does not introduce security vulnerabilities.
 Follow secure coding practices, including input validation and output encoding.
 Review code for common security issues, such as injection attacks, data leaks, and improper authentication.
 Use tools like linters and static analysis to identify potential security issues.
 
-Code Review Process
+## Code Review Process
 All contributions undergo a thorough code review.
 Make sure your code adheres to project coding standards and is well-documented.
 Be open to feedback and collaborate with reviewers to address any comments.
 
-Pull Request Submission
+## Pull Request Submission
 Ensure your pull request adheres to project guidelines.
 Reference the related issue in your pull request (if applicable).
 Provide a clear and concise description of your changes.
@@ -73,6 +73,6 @@ Await reviews from maintainers or other contributors.
 Community GuidelinesUse inclusive and welcoming language when communicating with others.
 Support newcomers and be patient with questions.
 
-Contact
+## Contact
 If you have any questions, feedback, or need assistance, please don't hesitate to contact us at: konstantinoschatzistavrou@gmail.com.
 Thank you for contributing to Privatify and for being an essential part of our community!
